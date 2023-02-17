@@ -23,7 +23,6 @@ f2 = (c2 / 10 + '0');
 i2 = (c2 % 10 + '0');
 if (c < c2)
 {
-putchar(f);
 putchar(i);
 putchar(' ');
 putchar(f2);
