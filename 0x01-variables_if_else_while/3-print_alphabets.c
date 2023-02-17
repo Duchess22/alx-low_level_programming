@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
-*main - print the alphabet
-*Return: Always 0
+* main - Entry point
+*
+* Return: Always 0 (success)
 */
 int main(void)
 {
@@ -9,12 +10,13 @@ char c;
 char d;
 c = 'a';
 d = 'A';
-while (c <= 'z')
-{
+while
+(c <= 'z') {
 putchar(c);
+c++;
 }
-while (d <= 'Z')
-{
+while
+(d <= 'Z') {
 putchar(d);
 d++;
 }
