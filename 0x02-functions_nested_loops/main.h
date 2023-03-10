@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 #ifndef main_h
 #define main_h
 
 
 int _putchar(char);
+=======
+int _putchar(char c);
+>>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
@@ -16,5 +20,8 @@ int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
 
+<<<<<<< HEAD
 
 #endif
+=======
+>>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
