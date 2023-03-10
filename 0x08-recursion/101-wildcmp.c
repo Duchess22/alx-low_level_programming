@@ -30,4 +30,7 @@ int wildcmp(char *s1, char *s2)
 {
 return (str_checker(s1, s2, 0, 0));
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64

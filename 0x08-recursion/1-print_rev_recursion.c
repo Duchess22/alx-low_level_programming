@@ -12,4 +12,7 @@ _print_rev_recursion(s + 1);
 _putchar(*s);
 }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64

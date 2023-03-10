@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+<<<<<<< HEAD
 
 /**
  * file: main.h
@@ -15,6 +16,9 @@
 
 
 int _putchar(char c);
+=======
+int _putchar(char);
+>>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
 char *_strncpy(char *dest, char *src, int n);
@@ -26,7 +30,11 @@ char *leet(char *);
 char *rot13(char *);
 void print_number(int n);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
+<<<<<<< HEAD
 void print_buffer(char *b, int size);
 
 
+=======
+void print_buffer(char *b, int size);  
+>>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
 #endif
