@@ -2,11 +2,6 @@
 #define MAIN_H
 
 <<<<<<< HEAD
-/**
- * File: main.h
- * Auth: brian muthama
- * description: Header file containing prototypes
- */
 
 =======
 >>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
