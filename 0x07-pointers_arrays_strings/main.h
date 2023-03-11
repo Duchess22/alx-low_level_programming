@@ -2,11 +2,7 @@
 #define MAIN_H
 
 <<<<<<< HEAD
-/**
- * File: main.h
- * Auth: brian muthama
- * description: Header file containing prototypes
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
