@@ -1,18 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-<<<<<<< HEAD
-
-
 #include <stdio.h>
 #include <stdlib.h>
-
 
 =======
 #include <stdio.h>
 #include <stdlib.h>
 
->>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
 int _putchar(char c);
 char *_memset(char *s, char b, unsigned int n);
 char *_memcpy(char *dest, char *src, unsigned int n);
