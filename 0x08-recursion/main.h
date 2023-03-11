@@ -1,10 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -19,8 +15,5 @@ int is_prime_number(int n);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 
-<<<<<<< HEAD
+
 #endif/*MAIN_H*/
-=======
-#endif
->>>>>>> 44c74b5fa55a4c56c8d74fa9204bfa182a110b64
