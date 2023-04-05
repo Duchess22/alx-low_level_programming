@@ -1,14 +1,13 @@
 global 	main
-	extern 	printf
-
-	section .text
+extern 	printf
+section .text
 main:
-	mov	rdi, format
-	mov	rax, 0
-	call	printf
-	mov	rax, 0
-	ret
+mov	rdi, format
+mov	rax, 0
+call	printf
+mov	rax, 0
+ret
 format:
-	db "Hello, Holberton", 10, 0
+db "Hello, Holberton", 10, 0
 
 
