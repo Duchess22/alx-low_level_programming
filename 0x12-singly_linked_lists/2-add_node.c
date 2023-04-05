@@ -3,22 +3,8 @@
 #include <stdio.h>
 #include "lists.h"
 /**
-* _strlen - function that returns the length of a string.
-* @s : s is a character
-* Return: value is i
-*/
-int _strlen(const char *s)
-{
-int i = 0;
-while (s[i] != '\0')
-{
-i++;
-}
-return (i);
-}
-/**
-* add_node - add a new node at beginning of a list_t list.
-* @head: head of a list_t list.
+* add_node - adds a new node at beginning of the list_t.
+* @head: head of list_t .
 * @str: value to insert into element.
 * Return: the number of nodes.
 */
