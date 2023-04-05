@@ -15,3 +15,4 @@ h = h->next;
 count++;
 }
 return (count);
+}
