@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 /**
 * get_bit - Returns value of a git at a certain index.
 * @n: the unsigned integer.

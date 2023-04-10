@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 /**
 * print_binary -  Prints the binary representation of a number.
 * @n: The decimal number to be changed to binary.
